@@ -242,8 +242,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [x] Cracking The Coding Interview Set 1:
     - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [x] How to Get a Job at the Big 4:
+    - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
@@ -267,10 +267,14 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
+- [x] [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- [ ] [Mike Müller - Faster Python Programs - Measure, don't Guess - PyCon 2016](https://www.youtube.com/watch?v=JDSGVvMwNM8) 3:03:57
+- [ ] [CPython internals - Interpreter and source code overview - Lecture 1](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6) 27:41
+- [ ] [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs) 1:13:16
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
